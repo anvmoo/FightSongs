@@ -1,5 +1,5 @@
 # FightSongs
-Fight Song Analytics
+Fight Song Analytics Project
 
 # fight-songs
 
